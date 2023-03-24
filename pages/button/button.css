@@ -37,6 +37,7 @@
     border-radius: 6px;
     background-color: #2C3333;
     font-size: 14px;
+    color: white;
    
 }
 
@@ -76,6 +77,7 @@ h6 {
     color: white;
     text-align: center;
     font-weight: bold;
+    text-align: top;
     font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif !important;
 }
 
